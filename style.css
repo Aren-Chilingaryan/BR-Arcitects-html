@@ -4,8 +4,8 @@
 .buttons {
   position: fixed;
   display: flex;
-  letter-spacing: 4px;
-  background-color: blue;
+  letter-spacing: 5px;
+  background-color: green;
 }
 .container {
   box-sizing: inherit;
