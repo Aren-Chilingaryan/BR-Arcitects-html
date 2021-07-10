@@ -5,6 +5,7 @@
   position: fixed;
   display: flex;
   letter-spacing: 4px;
+  background-color: white;
 }
 .container {
   box-sizing: inherit;
@@ -179,7 +180,7 @@
   width: 300px;
 }
 .teams-img {
-    width: 100%;
+  width: 100%;
 }
 .name {
   display: flex;
@@ -224,8 +225,8 @@
   display: flex;
   justify-content: center;
 }
-.container4{
-    display: flex;
-    justify-content: space-between;
-    margin-right: 40px;
+.container4 {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40px;
 }
