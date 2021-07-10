@@ -5,7 +5,7 @@
   position: fixed;
   display: flex;
   letter-spacing: 4px;
-  background-color: white;
+  background-color: blue;
 }
 .container {
   box-sizing: inherit;
